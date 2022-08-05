@@ -29,7 +29,7 @@ I'm a computer engineering student at Queen's University. I am passionate about 
 
 - 🔭 I’m currently working on my **Python** skills 
 - 🌱 I’m currently learning about Production Engineering as a part of the Summer 2022 [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering) 
-- ⚡ I'm interested in learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ⚡ I'm interested in learning **TypeScript**
 - 😄 Pronouns: He/him 
 
 Feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/logan-hoogendijk/).
