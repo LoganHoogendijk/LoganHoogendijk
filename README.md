@@ -6,7 +6,7 @@
 I'm a computer engineering student at Queen's University. I am passionate about backend application development and am always eager to learn more and develop new skills.
 
 Skills: 
-![Java](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg)
+![Java](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg height='10')
 / Python / C/C++ / JavaScript
 
 - 🔭 I’m currently working on my **Python** skills 
