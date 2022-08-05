@@ -34,5 +34,6 @@ I'm a computer engineering student at Queen's University. I am passionate about 
 
 Feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/logan-hoogendijk/).
 
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 
