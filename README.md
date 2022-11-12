@@ -31,7 +31,7 @@ I'm a computer engineering student at Queen's University. I am passionate about 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - 🔭 I’m currently working on my **Python** skills 
-- 🌱 I’m currently learning about Production Engineering as a part of the Summer 2022 [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering) 
+- 🌱 I recently finished learning about Production Engineering as a part of the Summer 2022 [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering) 
 - ⚡ I'm interested in learning **TypeScript**
 - 😄 Pronouns: He/him 
 
