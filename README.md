@@ -4,7 +4,7 @@
 # Hi there 👋, my name is Logan
 
 I'm a computer engineering student at Queen's University. I am passionate about backend application development and am always eager to learn more and develop new skills.
-https://github-readme-stats.vercel.app/api?username=loganhoogendijk&count_private=true&show_icons=true&theme=merko
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganhoogendijk&count_private=true&show_icons=true&theme=algolia)
 ## Skills
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
