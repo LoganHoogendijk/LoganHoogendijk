@@ -5,7 +5,7 @@
 
 I'm a computer engineering student at Queen's University. I am passionate about backend application development and am always eager to learn more and develop new skills.
 
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganhoogendijk&count_private=true&show_icons=true&theme=algolia)
+<!-- ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganhoogendijk&count_private=true&show_icons=true&theme=algolia) -->
 
 ## Skills
 ### Languages:
