@@ -14,6 +14,8 @@ I'm a computer engineering student at Queen's University. I am passionate about 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 ### Frameworks:
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
@@ -31,7 +33,7 @@ I'm a computer engineering student at Queen's University. I am passionate about 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - 🔭 I’m currently working on my **Python** skills 
-- 🌱 I recently finished learning about Production Engineering as a part of the Summer 2022 [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering) 
+- 🌱 I recently finished working as an Associate Developer Intern at Scotiabank, where I improved my Python and Java skills
 - ⚡ I'm interested in learning **TypeScript**
 - 😄 Pronouns: He/him 
 
